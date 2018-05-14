@@ -1,4 +1,4 @@
-# Neo4j + docker + docker-compose + node.js example
+# Proyecto-Bases-De-Datos-Avanzadas
 
 ## how to start
 just make it:
@@ -23,5 +23,3 @@ It binds to port `docker.host:17474` [http://docker.host:17474/](http://docker.h
 ### app
 It binds to port `docker.host:13000` [http://docker.host:13000/](http://docker.host:13000/)
 There are AngularJS/Bootstrap the simplest client for example. Just click `load` button.
-
-# Proyecto-Bases-De-Datos-Avanzadas
